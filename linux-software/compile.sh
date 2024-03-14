@@ -1,0 +1,5 @@
+
+
+  gcc *.c -lpthread
+  
+  
